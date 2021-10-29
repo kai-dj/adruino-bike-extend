@@ -14,14 +14,14 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L symbols:ATmega328p U?
-U 1 1 617C5F39
-P 2225 2900
-F 0 "U?" H 2225 4467 50  0000 C CNN
-F 1 "ATmega328p" H 2225 4376 50  0000 C CNN
-F 2 "" H 2225 2900 50  0001 C CNN
-F 3 "" H 2225 2900 50  0001 C CNN
-	1    2225 2900
+L adruino-bike-extend-rescue:ATmega328p-symbols U?
+U 1 1 617C6158
+P 2900 2800
+F 0 "U?" H 2900 4367 50  0000 C CNN
+F 1 "ATmega328p-symbols" H 2900 4276 50  0000 C CNN
+F 2 "" H 2900 2800 50  0001 C CNN
+F 3 "" H 2900 2800 50  0001 C CNN
+	1    2900 2800
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

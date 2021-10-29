@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name adruino-bike-extend-symbols)(type Legacy)(uri ${KIPRJMOD}/adruino-bike-extend-symbols/adruino-bike-extend-symbols.lib)(options "")(descr ""))
+  (lib (name adruino-bike-extend-rescue)(type Legacy)(uri ${KIPRJMOD}/adruino-bike-extend-rescue.lib)(options "")(descr ""))
 )
